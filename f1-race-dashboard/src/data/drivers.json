@@ -1,0 +1,62 @@
+ [
+  {
+    "id": "verstappen",
+    "name": "Max Verstappen",
+    "team": "Red Bull",
+    "position": 1,
+    "points": 412,
+    "wins": 14,
+    "podiums": 18,
+    "fastestLaps": 6
+  },
+  {
+    "id": "sainz",
+    "name": "Carlos Sainz",
+    "team": "Williams",
+    "position": 2,
+    "points": 280,
+    "wins": 2,
+    "podiums": 10,
+    "fastestLaps": 1
+  },
+  {
+    "id": "leclerc",
+    "name": "Charles Leclerc",
+    "team": "Ferrari",
+    "position": 3,
+    "points": 305,
+    "wins": 3,
+    "podiums": 12,
+    "fastestLaps": 2
+  },
+  {
+    "id": "russell",
+    "name": "George Russell",
+    "team": "Mercedes",
+    "position": 4,
+    "points": 290,
+    "wins": 1,
+    "podiums": 8,
+    "fastestLaps": 3
+  },
+  {
+    "id": "alonso",
+    "name": "Fernando Alonso",
+    "team": "Aston Martin",
+    "position": 5,
+    "points": 250,
+    "wins": 0,
+    "podiums": 5,
+    "fastestLaps": 0
+  },
+  {
+    "id": "ardvid",
+    "name": "Ardvid Lindblad",
+    "team": "Visa cash app red bull racing",
+    "position": 6,
+    "points": 250,
+    "wins": 0,
+    "podiums": 5,
+    "fastestLaps": 2
+  }
+]

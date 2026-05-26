@@ -1,0 +1,10 @@
+turbopack {
+  "version": "0.1.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "f1-race-dashboard"
+    }
+  }
+}
