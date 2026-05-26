@@ -16,6 +16,7 @@ export default function DriversPage() {
                         name={driver.name}
                         team={driver.team}
                         position={driver.position}
+                        imageUrl={driver.imageUrl}
                     />
                 ))}
             </div>
